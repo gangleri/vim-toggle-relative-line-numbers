@@ -1,4 +1,4 @@
-" a plugin to toggle between standard line nos and relative
+" a plugin to toggle between standard line numbers and relative
 function! ToggleNumRel()
   if(&nu == 1)
     set rnu
