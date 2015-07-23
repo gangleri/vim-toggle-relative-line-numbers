@@ -9,7 +9,7 @@ Using Vundle
 Plugin 'gangleri/vim-toggle-relative-line-numbers'
 ```
 
-By default I have bound <leader>ln as the short cut.
+By default I have bound &lt;leader&gt;ln as the short cut.
 
 ![](screen.gif)
 
